@@ -1,4 +1,4 @@
-
+/*
 let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 
 btnMemEnt.onclick=function(){
@@ -12,3 +12,4 @@ btnMemEnt.onclick=function(){
     console.log(members)
 }
 }
+*/

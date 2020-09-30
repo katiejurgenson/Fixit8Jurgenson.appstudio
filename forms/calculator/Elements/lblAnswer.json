@@ -1,7 +1,7 @@
 {
   "!type": "Label_bs4",
   "appearance": "primary",
-  "backgroundColor": "#f0f0f0",
+  "backgroundColor": "",
   "borderRadius": "0",
   "bottom": "auto",
   "cached_js": "",
@@ -17,9 +17,9 @@
   "fontWeight": "",
   "height": "auto",
   "hidden": "",
-  "id": "lblMemMsg",
+  "id": "lblAnswer",
   "labelStyle": "text",
-  "left": 38,
+  "left": 17,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 183,
+  "top": 296,
   "value": "Label",
-  "width": 222
+  "width": "auto"
 }
