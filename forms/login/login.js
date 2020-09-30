@@ -1,4 +1,4 @@
-/*
+/* 
 let accountName = ""
 
 btnSubmit.onclick=function(){
