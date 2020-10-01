@@ -54,6 +54,14 @@
             "calculator",
             "calculator.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "twoControls",
+            "twoControls.json"
+          ]
         }
       ],
       "configxml": null,
@@ -77,7 +85,7 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "calculator",
+      "firstform": "twoControls",
       "fontFamily": "system",
       "height": "",
       "homescreenTitle": "",

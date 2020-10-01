@@ -1,4 +1,4 @@
-
+/*
 btnAdd.onclick=function(){
   let addFirstNum = Number(inptFNum.value)
   let addSecNum = Number(inptSNum.value)
@@ -32,3 +32,4 @@ btnClear.onclick=function(){
   inptSNum.value = ""
   lblAnswer.value = ""
 }
+*/
